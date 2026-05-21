@@ -69,7 +69,7 @@ export GROQ_API_KEY="tu_api_key_aqui"
 **Evaluación del LLM (15 casos de prueba):**
 - Coherencia de señal: 100%
 - Factores SHAP mencionados: 1.7/3 promedio
-- Mención de riesgos: 93%
+- Mención de riesgos: 67%
 
 ---
 
