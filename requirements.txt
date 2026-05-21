@@ -1,0 +1,26 @@
+# Proyecto Final IA — EAFIT 2026-1
+# Predicción Bursátil con ML + Explicabilidad LLM
+# Instalar: pip install -r requirements.txt
+
+# Datos
+yfinance>=0.2.31
+
+# ML y preprocesamiento
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+optuna>=3.4.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Explicabilidad
+shap>=0.43.0
+
+# LLM
+groq>=0.4.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Notebook
+jupyter>=1.0.0
